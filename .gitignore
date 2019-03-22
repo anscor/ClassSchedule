@@ -1,0 +1,7 @@
+.vscode/*
+__pycache__/*
+Test*
+Test/*
+*.json
+config.json
+*.ics
